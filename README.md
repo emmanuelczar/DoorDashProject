@@ -4,4 +4,5 @@ By the end of this project I have become more familiar with:
 - data preparation for modelling
 - dealing with collinear features
 - feature engineering
+- multicollinearity and feature selection and scaling
 - git commands
